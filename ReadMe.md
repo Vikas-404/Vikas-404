@@ -1,11 +1,11 @@
 <h1 align="center">Hello, Vikas Assudani here</h1>
 <h3 align="center">Learning React Native</h3>
 
-- 🔭 I’m currently working on [PlannerHQ](plannerhq.framer.website/waitlist)
+- 🔭 I’m currently working on [PlannerHQ](https://plannerhq.framer.website/waitlist))
 
 - 🌱 I’m currently learning **React Native & Firebase**
 
-- 👨‍💻 All of my projects are available at [vikasassudani.innn](vikasassudani.in)
+- 👨‍💻 All of my projects are available at [vikasassudani.in](https://vikasassudani.in/)
 
 - 📝 I regularly share my journey and interesting stuff on my Twitter [https://twitter.com/VikasAssudani](https://twitter.com/VikasAssudani)
 
