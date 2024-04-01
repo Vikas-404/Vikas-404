@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native & Firebase**
 
-- 👨‍💻 All of my projects are available at [vikasassudani.in](vikasassudani.in)
+- 👨‍💻 All of my projects are available at [vikasassudani.innn](vikasassudani.in)
 
 - 📝 I regularly share my journey and interesting stuff on my Twitter [https://twitter.com/VikasAssudani](https://twitter.com/VikasAssudani)
 
