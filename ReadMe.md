@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Figma & Framer**
 
-- 📫 How to reach me **vikas404@duck.com**
+- 📫 Reach out to me via **vikas404@duck.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
