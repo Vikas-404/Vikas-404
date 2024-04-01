@@ -1,7 +1,7 @@
 <h1 align="center">Hello, Vikas Assudani here</h1>
-<h3 align="center">Learning React Native</h3>
+<h3 align="center">I am a Product Designer by Profession and Learning Cross Platform Mobile App Development as Hobby</h3>
 
-- 🔭 I’m currently working on [PlannerHQ](https://plannerhq.framer.website/waitlist))
+- 🔭 I’m currently working on [PlannerHQ](https://plannerhq.framer.website/waitlist)
 
 - 🌱 I’m currently learning **React Native & Firebase**
 
